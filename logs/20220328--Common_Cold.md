@@ -15,9 +15,14 @@ I have a worse sore throat along with a runny nose. At one point, I was literall
 I get tested for COVID. It's negative. Yay!
 
 I take my temperature, and it's over 100&deg;F. I have a fever.
+
+I take some medications before going to bed. Which includes [Mentholatum].
+
+My ears also hurt a lot. Ouch!
 - Sore Throat
 - Runny Nose
 - Fever
+- Sinus Pressure
 
 # Day 3
 I stay home from school today. I am not happy about that, because today is my second-favorite day of the 5-day week!
@@ -30,3 +35,5 @@ I wake up and sneeze a ton with a mild cough, then decide I can't fall asleep. S
 - Mild Cough
 - Mild Nausea
 <!-- unauseros -->
+
+[Mentholatum]: https://www.amazon.com/Mentholatum-Nighttime-Vaporizing-soothing-Lavender/dp/B00X9SH0JE
